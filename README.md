@@ -14,10 +14,10 @@
 ---
 
 ### 🛠️ Tech Stack & Tools  
-- **语言**: Java, SQL  
-- **框架**: Spring Boot, MyBatis  
+- **语言**: Java, SQL, C
+- **框架**: SpringMVC, Spring Boot, MyBatis, MyBatis-Plus
 - **数据库**: MySQL, Redis  
-- **工具**: Git, Maven, Linux  
+- **工具**: Git, Maven, Linux, IDEA, Docker, Nginx, Swagger  
 - **其他**: 了解微服务、容器化等技术  
 
 ---
